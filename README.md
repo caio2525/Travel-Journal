@@ -1,7 +1,7 @@
 ## About The Project
 Um diário de viagem. Ele lista os lugares pelos quais uma pessoa já viajou.  
 
-![Projeto](https://github.com/caio2525/moveIt-Next/blob/main/public/Inicio%20_%20move.it.gif)
+![Projeto](https://github.com/caio2525/Travel-Journal/blob/main/public/Screenshot%20from%202022-04-21%2014-26-11.png)
 
 ### Built With
 
