@@ -1,0 +1,62 @@
+.travel-container{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 18px;
+    border-bottom: 1px solid #F5F5F5;
+    max-width: 600px;
+    margin-top: 9px;
+    margin-bottom: 1rem;
+
+}
+
+.place-img{
+  flex: 1;
+
+
+}
+
+.place{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+    border-radius: 5px;
+}
+
+.travel-info{
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+  flex:3;
+
+}
+
+
+.travel-mark{
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.25rem;
+}
+
+.country-text{
+  font-weight: 500;
+
+  margin-left: 0.25rem;
+}
+
+.travel-link{
+  color: #918E9B;
+  font-weight: 400;
+  margin-left: 0.75rem;
+}
+
+.travel-title{
+
+  margin-top: 0;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.travel-date{
+  font-weight: bold;
+  color:
+}
